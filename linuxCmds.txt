@@ -1,0 +1,1 @@
+php-fpm -tt current php-fpm settings
